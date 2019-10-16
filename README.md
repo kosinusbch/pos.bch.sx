@@ -1,7 +1,5 @@
 # BCHPAY POS
 
-For those wanting to demo this, this was made for tablets and mobile phone resolutions as the frontend will be ported to it's own wallet app at some point in the future. It does work fine on desktop as well, but that is not something that was heavily focused on when making this.
-
 Check out a [vertical video of the app in action here](https://streamable.com/44dcv).
 
 ## Features
